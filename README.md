@@ -516,14 +516,9 @@ const isPalindrome = (x) => {
     return ((x == reverted) || (x == parseInt(reverted/10)));
 };
 ```
-**View on LeetCode:** leetcode.com/articles/palindrome-number/127661/Palindrome-Number/248370
-  
+**View on repl.it** https://repl.it/@rob_abcba/PalindromeInteger
+**View on LeetCode:** leetcode.com/articles/palindrome-number/127661/Palindrome-Number/248370  
 **View on YouTube:** https://youtu.be/cd3y1IgPYcE
-
-
-
-
-
 
 **[⬆ back to top](#table-of-contents)**
 
