@@ -517,6 +517,7 @@ const isPalindrome = (x) => {
 };
 ```
   **View on LeetCode:** leetcode.com/articles/palindrome-number/127661/Palindrome-Number/248370
+  **View on YouTube:** https://youtu.be/cd3y1IgPYcE
 
 
 
