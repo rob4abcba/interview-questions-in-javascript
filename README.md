@@ -481,8 +481,8 @@
   **View on Codepen:** http://codepen.io/kennymkchan/pen/qRGGeG?editors=0012
 
 <a name="numbers--power-of-two"></a><a name="5.1"></a>
-- **[5.1](#numbers--power-of-two) Given an integer, determine if it is a power of 2. If so,
-  return that number, else return -1. (0 is not a power of two)**
+- **[5.2](#numbers--palindrome-integer) Given an integer, determine if it is palindrome. If so,
+  return true, else return false.**
   
  ```javascript
  /**
@@ -516,8 +516,9 @@ const isPalindrome = (x) => {
     return ((x == reverted) || (x == parseInt(reverted/10)));
 };
 ```
-  **View on LeetCode:** leetcode.com/articles/palindrome-number/127661/Palindrome-Number/248370
-  **View on YouTube:** https://youtu.be/cd3y1IgPYcE
+**View on LeetCode:** leetcode.com/articles/palindrome-number/127661/Palindrome-Number/248370
+  
+**View on YouTube:** https://youtu.be/cd3y1IgPYcE
 
 
 
