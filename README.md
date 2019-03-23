@@ -592,7 +592,7 @@ const isPalindrome = (x) => {
   In classical inheritance, classes are immutable, may or may not support multiple
   inheritance, and may contain interfaces, final classes, and abstract classes. In contrast,
   prototypes are much more flexible in the sense that they may be mutable or immutable. The object
-  may inherit from multiple prototypes, and only contains objects.
+  may inherit from multiple prototypes and only contains objects.
   ```
 
 **[⬆ back to top](#table-of-contents)**
