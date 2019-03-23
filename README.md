@@ -220,7 +220,7 @@
 ## Strings
 <a name="string--reverse"></a><a name="2.1"></a>
 - **[2.1](#string--reverse) Given a string, reverse each word in the sentence**
-  `"Welcome to this Javascript Guide!"` should be become `"emocleW ot siht tpircsavaJ !ediuG"`
+  `"Welcome to this Javascript Guide!"` should become `"emocleW ot siht tpircsavaJ !ediuG"`
   ```javascript
   var string = "Welcome to this Javascript Guide!";
 
