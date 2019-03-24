@@ -580,7 +580,7 @@ const isPalindrome = (x) => {
 - **[6.5](#javascript--null-undefined) What is the difference between `null` and `undefined`**
 
   ```
-  In Javascript, null is an assignment value, and can be assigned to a variable representing that
+  In Javascript, null is an assignment value and can be assigned to a variable representing that
   it has no value. Undefined, on the other hand, represents that a variable has been declared but
   there is no value associated with it
   ```
