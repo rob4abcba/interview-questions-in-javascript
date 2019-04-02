@@ -600,7 +600,7 @@ const isPalindrome = (x) => {
 
 ## Hash Table
 <a name="hash--tables"></a><a name="1.1"></a>
-- **[1.1](#hash--tables) Given an array of integers, find the largest product yielded from three of the integers**
+- **[7.1](#hash--tables) Given an array of integers, find the largest product yielded from three of the integers**
   ```javascript
   var unsortedArray = [-10, 7, 29, 30, 5, -10, -70];
 
@@ -632,7 +632,7 @@ const isPalindrome = (x) => {
   **View on Codepen:** https://codepen.io/kennymkchan/pen/LxoMvm?editors=0012
 
 <a name="array--consecutive--sum"></a><a name="1.2"></a>
-- **[1.2](#array--consecutive--sum) Being told that an unsorted array contains (n - 1) of n consecutive numbers (where the bounds are defined), find the missing number in `O(n)` time**
+- **[7.2](#array--consecutive--sum) Being told that an unsorted array contains (n - 1) of n consecutive numbers (where the bounds are defined), find the missing number in `O(n)` time**
   ```javascript
   // The output of the function should be 8
   var arrayOfIntegers = [2, 5, 1, 4, 9, 6, 3, 7];
